@@ -13,7 +13,7 @@
 
 ## ✍Process
 
-<img src="D:\chat_project\img\process.png" alt="process" style="zoom:30%;" />
+<img src="./img/process.png" alt="process" style="zoom:30%;" />
 
 
 
@@ -74,7 +74,7 @@ chat project
 
     * Forwarding에 있는 주소 사용하면 외부에서도 내가 사용하는 포트로 접속가능
 
-    ![image-20210406163251731](image-20210406163251731.png)
+    <img src="./img/image-20210406163251731.png" alt="process" />
 
 
 
@@ -82,7 +82,7 @@ chat project
 
 ### 문제 1. 새로고침시 undefined발생
 
-![image-20210326203818389](image-20210326203818389.png)
+![image-20210326203818389](./img/image-20210326203818389.png)
 
 **해결방법. if문으로 해결**
 
